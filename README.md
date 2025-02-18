@@ -1,3 +1,4 @@
+video: https://drive.google.com/file/d/1By4ILCIg6p-L9ZFDBQ4UYCgUtQAETzYu/view?usp=sharing
 Instruções:
 
 Os LEDs RGB (vermelho, verde e azul) são controlados por meio de modulação por largura de pulso (PWM), permitindo ajustar o brilho de cada LED individualmente.
